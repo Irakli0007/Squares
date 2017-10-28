@@ -12,8 +12,8 @@ import javax.swing.JPanel;
 public class Screen extends JPanel implements Runnable {
 
 	private static final long serialVersionUID = 1L;
-	static final int WIDTH = 1920;
-	static final int HEIGHT = 1080;
+	static final int WIDTH = 1440;
+	static final int HEIGHT = 720;
 
 	private boolean running = false;
 	private ArrayList<Square> list;

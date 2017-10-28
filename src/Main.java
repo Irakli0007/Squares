@@ -11,7 +11,7 @@ public class Main {
 			s.setFocusable(true);
 			
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-			frame.setResizable(true);
+			frame.setResizable(false);
 			frame.add(s);
 			frame.pack();
 			frame.setLocationRelativeTo(null);

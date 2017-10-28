@@ -31,7 +31,7 @@ public class Square extends Rectangle {
 		if(randSize == 1) {
 			this.size = 20; 
 		} else if(randSize == 2) {
-			this.size = 20;
+			this.size = 30;
 		} else {
 			this.size = 40;
 		}
